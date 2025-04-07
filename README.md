@@ -1,1 +1,1 @@
-The provided MATLAB code is used for processing representative images, alongside a more user-friendly version written in Jupyter.
+The provided MATLAB code is used for processing representative figures, alongside a more user-friendly version written in Jupyter.
